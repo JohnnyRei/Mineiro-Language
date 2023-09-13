@@ -1,4 +1,4 @@
-# Mineiro Language
+# Mineiro Language 🧀
 
 ## Descrição
 
