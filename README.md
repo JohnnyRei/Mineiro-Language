@@ -36,6 +36,36 @@ Queijo> RUN("mineiro.trem")
 
 Isso instruirá o interpretador Mineiro a carregar e executar o conteúdo do arquivo `mineiro.trem`. Você verá a saída do programa, que neste caso será a mensagem "Uai! o trem funciona!" impressa na tela.
 
+## Tabela de Tradução
+
+Aqui está uma tabela de tradução das palavras-chave e funções mais comuns da linguagem Python para suas equivalentes em Mineiro:
+
+| Python          | Mineiro       | Descrição                               |
+|-----------------|---------------|-----------------------------------------|
+| `null`          | `NU`          | Valor nulo (similar a `None` em Python) |
+| `False`         | `PAIA`        | Valor booleano falso                   |
+| `True`          | `TREM`        | Valor booleano verdadeiro               |
+| `print`         | `UAI`         | Função de impressão                     |
+| `print_ret`     | `UAI_RET`     | Função de impressão com retorno        |
+| `input`         | `FRAGAR`      | Função de entrada de texto              |
+| `int(input())`  | `FRAGAR_INT`  | Função de entrada de número inteiro     |
+
+## Exemplos de Tradução
+
+Aqui estão alguns exemplos de código Python traduzidos para Mineiro:
+
+**Python:**
+```python
+resultado = input("Digite um número: ")
+print("Você digitou:", resultado)
+```
+
+**Mineiro:**
+```python
+resultado = FRAGAR_INT("Digite um número: ")
+UAI_RET("Você digitou:", resultado)
+```
+
 ## Contribuindo
 
 Se você deseja contribuir para o desenvolvimento da linguagem Mineiro ou relatar problemas, sinta-se à vontade para criar um problema no repositório oficial do Mineiro ou enviar uma solicitação de pull.
