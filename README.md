@@ -6,7 +6,7 @@ A linguagem Mineiro é uma linguagem de programação minimalista, inspirada na 
 
 ## Primeiro Arquivo `mineiro.trem`
 
-Para começar a escrever em Mineiro, você precisará criar um arquivo com a extensão `.trem`. Vamos criar um arquivo chamado `mineiro.trem` para ilustrar os conceitos básicos da linguagem. Abra seu editor de texto favorito e crie um arquivo chamado `mineiro.trem`.
+Para começar a escrever em Mineiro, você precisará criar um arquivo com a extensão `.trem`🚂. Vamos criar um arquivo chamado `mineiro.trem` para ilustrar os conceitos básicos da linguagem. Abra seu editor de texto favorito e crie um arquivo chamado `mineiro.trem`.
 
 No arquivo `mineiro.trem`, insira o seguinte código:
 
@@ -69,5 +69,10 @@ UAI_RET("Você digitou:", resultado)
 ## Contribuindo
 
 Se você deseja contribuir para o desenvolvimento da linguagem Mineiro ou relatar problemas, sinta-se à vontade para criar um problema no repositório oficial do Mineiro ou enviar uma solicitação de pull.
+
+# Créditos
+
+- [py-myopl-code](https://github.com/davidcallanan/py-myopl-code)
+- [pythOwO](https://github.com/virejdasani/pythOwO)
 
 Divirta-se programando em Mineiro! 🤠
